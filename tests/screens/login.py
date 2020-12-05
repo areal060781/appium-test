@@ -1,4 +1,4 @@
-class LoginScreen:
+class Login:
     def __init__(self, driver):
         self.driver = driver
         self.username_input = driver.find_element_by_id('username')

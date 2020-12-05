@@ -12,3 +12,9 @@
 /captures
 .externalNativeBuild
 .cxx
+
+__pycache__
+tests/__pycache__
+helpers/__pycache__
+screens/__pycache__
+testcases/__pycache__

@@ -7,7 +7,3 @@ ANDROID_BASE_CAPS = {
     'appPackage': 'io.grainchain.logintest',
     'appActivity': '.ui.login.LoginActivity'
 }
-
-username = 'aida@test.com'
-password = 'Test*123'
-bad_password = "test"
