@@ -13,8 +13,9 @@
 .externalNativeBuild
 .cxx
 
+.pytest_cache
 __pycache__
 tests/__pycache__
-helpers/__pycache__
-screens/__pycache__
-testcases/__pycache__
+tests/helpers/__pycache__
+tests/screens/__pycache__
+tests/testcases/__pycache__
